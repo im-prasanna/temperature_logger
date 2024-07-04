@@ -1,0 +1,8 @@
+#Temperature Logger
+
+Logs the temperature every 10 secs
+
+The code assumes the circuit provided in circuit.png
+
+Implemented simple FAT16 filesystem to read, write, create files in root Directory.
+
